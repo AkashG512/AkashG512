@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Gotur</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Akash Gotur</h1>
 <div align="center"> <img [src=""D:\Data Analytics\raw files\d95a60d7cdd251e7d7b27599b7581d6c.gif""> </div>
 <h3 align="center">A passionate about Data Analyst, Data science and AI. I am graduated BCA student from Karnataka University, Karnataka, India.</h3>
 
