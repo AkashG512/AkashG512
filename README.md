@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Gotur</h1>
-<div align="center"> <img [src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png](https://dribbble.com/shots/2859415-Animation-for-Analytics-Monitoring/attachments/9523185?mode=media)"> </div>
+<div align="center"> <img [src="https://dribbble.com/shots/2859415-Animation-for-Analytics-Monitoring?utm_source=Clipboard_Shot&utm_campaign=QriusV&utm_content=Animation%20for%20Analytics%20Monitoring&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=QriusV&utm_content=Animation%20for%20Analytics%20Monitoring&utm_medium=Social_Share"> </div>
 <h3 align="center">A passionate about Data Analyst, Data science and AI. I am graduated BCA student from Karnataka University, Karnataka, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashg512&label=Profile%20views&color=0e75b6&style=flat" alt="akashg512" /> </p>
