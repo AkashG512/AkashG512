@@ -3,7 +3,7 @@
 <h3 align="center">A passionate about Data Analyst, Data science and AI. I am graduated BCA student from Karnataka University, Karnataka, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashg512&label=Profile%20views&color=0e75b6&style=flat" alt="akashg512" /> </p>
-<img align="right" alt="Coding" width="400" src=""D:\Data Analytics\raw files\d95a60d7cdd251e7d7b27599b7581d6c.gif"">
+<img align="right" alt="Coding" width="400" src="D:\Data Analytics\raw files\d95a60d7cdd251e7d7b27599b7581d6c.gif">
 
 
 - 🌱 I’m currently learning **Data Analytics from scratch**
