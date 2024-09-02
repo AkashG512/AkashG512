@@ -5,6 +5,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-gotur-b512512ba/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yng._flexy/)
 
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashg512&label=Profile%20views&color=0e75b6&style=flat" alt="akashg512" /> </p>
 <img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-7d63f8d439.gif">
 
