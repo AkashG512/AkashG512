@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashg512&show_icons=true&locale=en&layout=compact" alt="akashg512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashg512&show_icons=true&locale=en" alt="akashg512" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=AkashG512&limit=5&theme=flat&combine_all_yearly_contributions=true)
