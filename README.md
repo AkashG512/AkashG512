@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Data Analytics from scratch**
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  How to reach me: akashgotur512@gmail.com;
 - ⚡ Fun fact **I'm a Valorant player (Gamer)**
+- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
