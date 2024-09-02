@@ -1,5 +1,8 @@
 ### <h2><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Akash Gotur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashg512&label=Profile%20views&color=0e75b6&style=flat" alt="akashg512" /> </p>
+<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-7d63f8d439.gif">
+
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-gotur-b512512ba/)
@@ -14,10 +17,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   
 
 **Talking about Personal Stuffs:**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashg512&label=Profile%20views&color=0e75b6&style=flat" alt="akashg512" /> </p>
-<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-7d63f8d439.gif">
-
 
 - 🌱 I’m currently learning **Data Analytics from scratch**
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  How to reach me: akashgotur512@gmail.com;
