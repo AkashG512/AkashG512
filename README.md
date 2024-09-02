@@ -11,9 +11,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I’ve recently completed my graduation and am diving deep into the world of data analytics.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+Currently, I’m focused on building impactful projects and refining my skills to prepare for an exciting career ahead. Feel free to explore my repositories—each one reflects my passion for data and my journey toward mastering the craft. Let’s connect and grow together!
+
   
 
 **Talking about Personal Stuffs:**
